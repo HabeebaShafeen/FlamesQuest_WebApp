@@ -1,8 +1,7 @@
-
 # FlamesQuest_Website
 
 *Description:*
-
+ 
 FlamesQuest is a fun and simple web application that helps you discover the relationship and the percentage of compatibility between two names. Whether you're curious about the connection between you and your friends, family members, or even your favorite celebrities, FlamesQuest can provide you with entertaining insights.
 
 *How it Works:*
